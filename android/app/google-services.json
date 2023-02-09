@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "292276894849",
+    "firebase_url": "https://superstore-app-30bef-default-rtdb.firebaseio.com",
+    "project_id": "superstore-app-30bef",
+    "storage_bucket": "superstore-app-30bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292276894849:android:aee57b30c3aa020bd9a180",
+        "android_client_info": {
+          "package_name": "com.onestopsnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292276894849-p6c27r4iag135h6f8hgtcatdc17t9t48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onestopsnap",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "292276894849-ffbk77gsc229os34rk7j38ib0dud0m0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIH9DCp7KfKjg4A3yUAvzEWuHI0UgBsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292276894849-ffbk77gsc229os34rk7j38ib0dud0m0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292276894849-4sjveb8s29fp26b0egrbuhtn9op4ao7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292276894849:android:32cc08bcc03dd9c3d9a180",
+        "android_client_info": {
+          "package_name": "com.wearelegendary.davaomarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292276894849-trdkar53blhkhetao92esnhhar2kvqk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wearelegendary.davaomarket",
+            "certificate_hash": "22ca03a7fc6382e440c7c208ee94a73eeee0ceb3"
+          }
+        },
+        {
+          "client_id": "292276894849-ffbk77gsc229os34rk7j38ib0dud0m0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIH9DCp7KfKjg4A3yUAvzEWuHI0UgBsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292276894849-ffbk77gsc229os34rk7j38ib0dud0m0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292276894849-4sjveb8s29fp26b0egrbuhtn9op4ao7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
