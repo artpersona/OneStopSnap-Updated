@@ -23,6 +23,7 @@ const OnBoarding = () => {
   const navigation = useNavigation();
 
   const scrollToNext = () => {
+    console.log('as');
     if (currentIndex < DATA.length - 1) {
       console.log('index is: ', currentIndex);
       slidesRef.current.scrollToIndex({index: currentIndex + 1});
